@@ -1,5 +1,5 @@
 # Jogo Flappy Bird
-<img src="images/flappyBird.png" width="400" height="500"/>
+<img src="images/flappyBird.png" width="400" height="450"/>
 
 Jogo está sendo desenvolvido com base na série de vídeos do Mario Souto no canal Dev Soutinho.
  - Link para a playlist:
